@@ -1,0 +1,11 @@
+
+body{
+	font-size: 0;
+}
+label{
+	width:72px;
+	padding-right: 8px;
+	margin-left: 40px;
+	display: inline-block;
+	font-size: 14px;
+}
